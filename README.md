@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá !
 
 ### Meu nome e Christian Martins, Desenvolvedor entusiasta da stack NodeJS | ReactJS | React Native.
 <!--
