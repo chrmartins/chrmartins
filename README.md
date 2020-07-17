@@ -1,6 +1,6 @@
-### Olá !
+Olá!
 
-### Meu nome e Christian Martins, Desenvolvedor entusiasta da stack NodeJS | ReactJS | React Native.
+Meu nome é Christian Martins, Desenvolvedor entusiasta da stack NodeJS | ReactJS | React Native.
 <!--
 **chrmartins/chrmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
