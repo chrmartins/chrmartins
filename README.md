@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Martins</h1>
 <h3 align="center">Enthusiastic Developer at stack NodeJS | ReactJS | React Native</h3>
-
+<p>
 <a href="https://twitter.com/@chri37ian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@chri37ian" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/chrmartins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrmartins" height="20" width="20" /></a>
 <a href="https://instagram.com/chrmartins" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chrmartins" height="20" width="20" /></a>
