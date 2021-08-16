@@ -2,8 +2,8 @@
 
 ## I'm Christian Martins!
 
-:computer: I'm Front-End Developer!
-:house_with_garden: I’m from Brazil, Rio de Janeiro.
+:computer: DESENVOLVEDOR FRONT-END
+:house_with_garden: Sou do Rio de Janeiro, Brasil
 
 <!-- Tecnologias -->  
 <div style="display: inline_block">
@@ -30,8 +30,6 @@
  
  <img src="	https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
  
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
- 
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
  
   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
@@ -39,6 +37,8 @@
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
  
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
  
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
  
@@ -51,8 +51,6 @@
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 
-## About me
+## Um pouco sobre mim:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=chrmartins)]( chrmartins)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrmartins&layout=compact)](https://github.com/chrmartins/github-readme-stats)
