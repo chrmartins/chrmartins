@@ -1,6 +1,6 @@
-# Welcome!
+# Seja bem-vindo(a)!
 
-## I'm Christian Martins!
+## Christian Martins!
 
 :computer: DESENVOLVEDOR FRONT-END
 
