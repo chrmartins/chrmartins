@@ -19,5 +19,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=chrmartins)]( chrmartins)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrmartins&layout=compact)](https://github.com/chrmartins/github-readme-stats)
 
-[![Christian Martins](https://github-readme-stats.vercel.app/api/wakatime?username=chrmartins)](https://github.com/chrmartins/github-readme-stats)
