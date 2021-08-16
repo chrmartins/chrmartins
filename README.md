@@ -2,13 +2,13 @@
 
  
 
-## I'm (SEU NOME)!
+## I'm (Christian Martins)!
 
  
 
 :computer: I'm Front-End Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil, Rio de Janeiro.
 
 :books: I’m currently learning everything.
 
@@ -25,12 +25,3 @@
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
-
-----------------------------------------------------------------------------------
-
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
-
-(SEU NOME) = Christian Martins
-
-LINK_GIT = https://github.com/chrmartins
