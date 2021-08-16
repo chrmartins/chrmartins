@@ -20,4 +20,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=chrmartins)]( chrmartins)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Christian Martins](https://github-readme-stats.vercel.app/api/wakatime?username=chrmartins)](https://github.com/chrmartins/github-readme-stats)
