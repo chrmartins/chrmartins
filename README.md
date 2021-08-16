@@ -1,6 +1,6 @@
 # Welcome!
 
-## I'm (Christian Martins)!
+## I'm Christian Martins!
 
 :computer: I'm Front-End Developer!
 
