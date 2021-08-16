@@ -3,11 +3,10 @@
 ## I'm Christian Martins!
 
 :computer: I'm Front-End Developer!
+:house_with_garden: I’m from Brazil, Rio de Janeiro.
 
 <!-- Tecnologias -->  
 <div style="display: inline_block">
-
- <h3> Front-end </h3>
 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -19,8 +18,6 @@
 
  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
  
-
-:house_with_garden: I’m from Brazil, Rio de Janeiro.
 
 ## About me
 
