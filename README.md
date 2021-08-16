@@ -9,6 +9,6 @@
 ## About me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=chrmartins)]( chrmartins)
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=cmts2010gmail.com
+https://img.shields.io/badge/cmts2010-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrmartins&layout=compact)](https://github.com/chrmartins/github-readme-stats)
