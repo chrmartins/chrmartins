@@ -1,6 +1,6 @@
 # Seja bem-vindo(a)!
 
-## Christian Martins!
+## Christian Martins
 
 :computer: DESENVOLVEDOR FRONT-END
 
