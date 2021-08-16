@@ -12,4 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrmartins&layout=compact)](https://github.com/chrmartins/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrmartins&show_icons=true&theme=gradiente)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrmartins&show_icons=true&theme=Gradiente)
