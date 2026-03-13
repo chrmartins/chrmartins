@@ -2,7 +2,7 @@
 
 ## Christian Martins
 
-:computer: DESENVOLVEDOR FRONT-END
+:computer: DESENVOLVEDOR FULLSTACK
 
 :house_with_garden: Sou do Rio de Janeiro, Brasil
 
